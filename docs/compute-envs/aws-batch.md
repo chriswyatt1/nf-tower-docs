@@ -193,9 +193,7 @@ The **Pipeline work directory** bucket above is added by default to the list of 
 **14.** To use **EFS**, you can either specify the existing EFS option using **Use existing EFS file system** or deploy a new EFS using **Create new EFS file system** option.
 
 
-**15.** To use **FSx**, you can enter `/fsx` as the **FSx mount path** and set the **Pipeline work directory** above to be `/fsx/work`
-
-![](_images/aws_lustre_options.png)
+**15.** To use **FSx**, you can set the **Pipeline work directory** above to be `/fsx/work`. Optionally can also specify the **FSx mount path**.
 
 
 **16.** Choose the **Dispose resources** option.
