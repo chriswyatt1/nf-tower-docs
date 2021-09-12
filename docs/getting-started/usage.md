@@ -14,9 +14,9 @@ You can use Tower via either the **online GUI**, using the `-with-tower` option 
 
 **1.** Create an account and login into Tower, available free of charge, at [tower.nf](https://tower.nf).
 
-**2.** Create and configure a new [compute environment](../../compute-envs/overview/).
+**2.** Create and configure a new [compute environment](https://help.tower.nf/compute-envs/overview/).
 
-**3.** Start [launching pipelines](../../launch/overview/).
+**3.** Start [launching pipelines](https://help.tower.nf/launch/launchpad/).
 
 ## Via Nextflow run command
 
@@ -24,7 +24,7 @@ Create an account and login into Tower.
 
 **1. Create a new token**
 
-  You can access your tokens from the The *Settings* drop-down menu or directly from this [link](https://tower.nf/tokens):
+  You can access your tokens from the *Settings* drop-down menu:
 
 ![](_images/usage_create_token.png)
 
