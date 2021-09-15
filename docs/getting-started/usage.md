@@ -16,7 +16,7 @@ You can use Tower via either the **online GUI**, using the `-with-tower` option 
 
 **2.** Create and configure a new [compute environment](https://help.tower.nf/compute-envs/overview/).
 
-**3.** Start [launching pipelines](https://help.tower.nf/launch/launchpad/).
+**3.** Start [launching pipelines](../../launch/launchpad/).
 
 ## Via Nextflow run command
 
