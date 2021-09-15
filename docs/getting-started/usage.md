@@ -14,7 +14,7 @@ You can use Tower via either the **online GUI**, using the `-with-tower` option 
 
 **1.** Create an account and login into Tower, available free of charge, at [tower.nf](https://tower.nf).
 
-**2.** Create and configure a new [compute environment](https://help.tower.nf/compute-envs/overview/).
+**2.** Create and configure a new [compute environment](../../compute-envs/overview/).
 
 **3.** Start [launching pipelines](../../launch/launchpad/).
 
